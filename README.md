@@ -23,7 +23,7 @@ Feel free to learn more about me and explore my work on my [portfolio website](h
 
 ---
 
-# 🛠️ Equipment & Software:
+# 🛠️ Equipment & Softwares:
 <p align="center">
     <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
