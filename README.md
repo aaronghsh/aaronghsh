@@ -17,8 +17,6 @@ Feel free to learn more about me and explore my work on my [portfolio website](h
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/KEIL-uVision-grey?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/LTSPICE-red?style=for-the-badge" />
 </p>
 
 ---
@@ -37,8 +35,8 @@ Feel free to learn more about me and explore my work on my [portfolio website](h
     <img src="https://img.shields.io/badge/Autodesk%20Revit-4CAF50?style=for-the-badge&logo=autodesk&logoColor=white" />
     <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white" />
     <img src="https://img.shields.io/badge/Granta-0071C5?style=for-the-badge&logo=ansys&logoColor=white" />
-    <img src="https://img.shields.io/badge/Keil-uVision-1E90FF?style=for-the-badge&logo=keil&logoColor=white" />
-    <img src="https://img.shields.io/badge/LTSpice-FF0000?style=for-the-badge&logo=analog-devices&logoColor=white" />
+    <img src="https://img.shields.io/badge/KEIL-uVision-006400?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LTSPICE-red?style=for-the-badge" />
 
 </p>
 
