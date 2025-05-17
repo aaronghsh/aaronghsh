@@ -17,8 +17,8 @@ Feel free to learn more about me and explore my work on my [portfolio website](h
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/matlab-%23E34F26.svg?style=for-the-badge&logo=mathworks&logoColor=white" />
-    <img src="https://img.shields.io/badge/assembly-%23F05032.svg?style=for-the-badge&logo=assembly&logoColor=white" />
+    <img src="https://img.shields.io/badge/KEIL-uVision-grey?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LTSPICE-red?style=for-the-badge" />
 </p>
 
 ---
