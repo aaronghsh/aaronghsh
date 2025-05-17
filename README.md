@@ -1,4 +1,4 @@
-# 🚀 About Me:
+# 🚀 About Me
 I'm Aaron Ghosh, an Electrical Engineering student at McMaster University.
 
 I am passionate about problem-solving, coding, and building systems that blend hardware and software. My interests include circuit design, software development, digital systems, embedded systems, and artificial intelligence. Outside of school, I enjoy gaming, listening to music, working out, and playing piano.  
