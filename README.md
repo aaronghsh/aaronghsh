@@ -43,8 +43,8 @@ Feel free to learn more about me and explore my work on my [portfolio website](h
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaronghosh&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronghosh&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aaronghsh&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronghsh&layout=compact&theme=github_dark" />
 </p>
 
 ---
