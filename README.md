@@ -35,7 +35,7 @@ Feel free to learn more about me and explore my work on my [portfolio website](h
     <img src="https://img.shields.io/badge/Autodesk%20Revit-4CAF50?style=for-the-badge&logo=autodesk&logoColor=white" />
     <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white" />
     <img src="https://img.shields.io/badge/Granta-0071C5?style=for-the-badge&logo=ansys&logoColor=white" />
-    <img src="https://img.shields.io/badge/KEIL-uVision-006400?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/KEIL-006400?style=for-the-badge" />
     <img src="https://img.shields.io/badge/LTSPICE-red?style=for-the-badge" />
 
 </p>
