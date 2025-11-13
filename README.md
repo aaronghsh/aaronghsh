@@ -13,11 +13,10 @@ Feel free to learn more about me and explore my work on my [portfolio website](h
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/verilog-%23323330.svg?style=for-the-badge&logo=verilog&logoColor=%23F7DF1E" />
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/perl-39457E?style=for-the-badge&logo=perl&logoColor=white" />
+    <img src="https://img.shields.io/badge/bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
+
 
 ---
 
@@ -27,6 +26,12 @@ Feel free to learn more about me and explore my work on my [portfolio website](h
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/Intel%20Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+    <img src="https://img.shields.io/badge/ModelSim-0091BD?style=for-the-badge&logo=siemens&logoColor=white" />
+    <img src="https://img.shields.io/badge/UVM-0078D4?style=for-the-badge&logo=systemverilog&logoColor=white" />
+    <img src="https://img.shields.io/badge/FPGA%20Design-FF6F00?style=for-the-badge&logo=xilinx&logoColor=white" />
+    <img src="https://img.shields.io/badge/ASIC%20Design-4B0082?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/SoC%20Design-6A5ACD?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Altium%20Designer-8A8A8A?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
     <img src="https://img.shields.io/badge/PSpice-%23E34F26.svg?style=for-the-badge&logo=electronics&logoColor=white" />
     <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
@@ -37,8 +42,8 @@ Feel free to learn more about me and explore my work on my [portfolio website](h
     <img src="https://img.shields.io/badge/Granta-0071C5?style=for-the-badge&logo=ansys&logoColor=white" />
     <img src="https://img.shields.io/badge/KEIL-006400?style=for-the-badge" />
     <img src="https://img.shields.io/badge/LTSPICE-red?style=for-the-badge" />
-
 </p>
+
 
 
 ---
