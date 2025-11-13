@@ -13,8 +13,11 @@ Feel free to learn more about me and explore my work on my [portfolio website](h
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/verilog-%23323330.svg?style=for-the-badge&logo=verilog&logoColor=%23F7DF1E" />
+    <img src="https://img.shields.io/badge/systemverilog-4B0082?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/VHDL-800000?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/perl-39457E?style=for-the-badge&logo=perl&logoColor=white" />
     <img src="https://img.shields.io/badge/bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 
