@@ -14,7 +14,6 @@ Feel free to learn more about me and explore my work on my [portfolio website](h
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/matlab-%23E16737.svg?style=for-the-badge&logo=Mathworks&logoColor=white" />
     <img src="https://img.shields.io/badge/assembly-525252?style=for-the-badge" />
     <img src="https://img.shields.io/badge/verilog-%23323330.svg?style=for-the-badge&logoColor=%23F7DF1E" />
